@@ -1,9 +1,8 @@
-# API Fastify CRUD
-
----
 ![Capa do Projeto](Capa.png)
 
 ---
+
+# API Fastify CRUD
 
 API REST desenvolvida com **Node.js** e **Fastify** para realizar operações CRUD de usuários.
 
