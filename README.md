@@ -1,5 +1,10 @@
 # API Fastify CRUD
 
+---
+![Capa do Projeto](Capa.png)
+
+---
+
 API REST desenvolvida com **Node.js** e **Fastify** para realizar operações CRUD de usuários.
 
 O projeto foi criado com foco em aprendizado de desenvolvimento Back-End, organização em camadas, criação de rotas, manipulação de dados em memória e testes de endpoints utilizando o Postman.
