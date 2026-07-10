@@ -349,8 +349,17 @@ Foram realizados testes de:
 
 ---
 
-## Autor
+👨‍💻 Autor
+Ronaldo Augusto Sabino
+Contato
 
-**Ronaldo Augusto Sabino**
+📧 ronaldosabino94@hotmail.com
 
-Projeto desenvolvido como prática de Back-End com Node.js e Fastify.
+💼 LinkedIn:
+https://www.linkedin.com/in/ronaldo-a-sabino-381a07213
+
+⭐ Projeto desenvolvido como prática de Back-End com Node.js e Fastify.
+
+🐙 GitHub:
+https://github.com/Ronaldo94-GITHUB
+
